@@ -1,4 +1,4 @@
-module github.com/alvaroenriqueds/matriz
+module github.com/alvaroenriqueds/matriz_90
 
 go 1.15
 
