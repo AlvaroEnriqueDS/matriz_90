@@ -1,16 +1,16 @@
 # MATRIZ 90°
 
-Este repo contiene un API que permite girar una matriz NxN en 90 sentido horario°
+Este repo contiene un API que permite girar una matriz NxN en 90 sentido anti-horario°
 
 Escrito en golang e impulsado con echo framework
 
 Problema
 ---
-**Rotar matriz en sentido horario **
+Rotar matriz en sentido anti-horario
 
     Elaborar una API de tipo POST que reciba un array de números que conformen una matriz NXN
     y se devuelva la misma matriz pero rotada en sentido anti-horario (90°).
-    Se debe validar que los datos de entrada estén correctamente formateados.
+    Se debe validar que los datos de entrada estén en el formato correcto.
     
 Ejecución
 ---
